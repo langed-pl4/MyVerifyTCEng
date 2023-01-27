@@ -1,0 +1,9 @@
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\bin\Debug\MyVerifyTCEng.exe
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\bin\Debug\MyVerifyTCEng.pdb
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\obj\Debug\ResolveAssemblyReference.cache
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\obj\Debug\MyVerifyTCEng.exe
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\obj\Debug\MyVerifyTCEng.pdb
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Debug\MyVerifyTCEng.exe
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Debug\MyVerifyTCEng.pdb
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Debug\MyVerifyTCEng.exe
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Debug\MyVerifyTCEng.pdb

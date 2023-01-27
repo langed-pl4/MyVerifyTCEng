@@ -1,0 +1,22 @@
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.exe
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.pdb
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\obj\Release\ResolveAssemblyReference.cache
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.exe
+E:\Langed Documents\Documents\Quallity\DLSistemas\Fontes\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.pdb
+Z:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.exe
+Z:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.pdb
+Z:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.exe
+Z:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.pdb
+Z:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.csprojResolveAssemblyReference.cache
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.exe
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.pdb
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.exe
+D:\88 - Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.pdb
+E:\88_Desenv\00_General\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.exe
+E:\88_Desenv\00_General\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.pdb
+C:\Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.exe
+C:\Desenv\MyVerifyTCEng\MyVerifyTCEng\bin\Release\MyVerifyTCEng.pdb
+C:\Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.csproj.AssemblyReference.cache
+C:\Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.csproj.CoreCompileInputs.cache
+C:\Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.exe
+C:\Desenv\MyVerifyTCEng\MyVerifyTCEng\obj\Release\MyVerifyTCEng.pdb
